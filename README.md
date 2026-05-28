@@ -16,11 +16,11 @@
 
 ## About Me
 
-I'm a Computer Science student at **FIAP** (São Paulo, Brazil) with a strong interest in **backend development** and **information security**. I spent ~3 years in Ireland, studying at CCT Dublin College and working as a Team Leader — an experience that shaped my communication skills, adaptability and resilience.
+I'm a Computer Science student at **FIAP** (São Paulo, Brazil) with a strong interest in **backend development**. I spent ~3 years in Ireland, studying at CCT Dublin College and working as a Team Leader — an experience that shaped my communication skills, adaptability and resilience.
 
 - B.Sc. Computer Science — FIAP (2026 – 2030)
 - Former student at CCT Dublin College, Ireland (2024 – 2025)
-- Interested in backend development, API security and network security
+- Interested in backend development
 - Currently learning: Python · Linux · Node.js 
 - Languages: Portuguese (native) · English — Cambridge B2
 
