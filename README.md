@@ -1,5 +1,6 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Josue%20Franco%20Braga&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Software%20Development%20%26%20Cybersecurity&descAlignY=58&descSize=16" width="100%"/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Josue%20Franco%20Braga&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Software%20Dev%20%7C%20Cybersecurity&descAlignY=58&descSize=18" width="100%"/>
 </div>
 
 ---
@@ -8,7 +9,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-josuefbraga28-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/josuefbraga28)
 [![Email](https://img.shields.io/badge/Email-josuefbraga%40outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josuefbraga@outlook.com)
-[![Location](https://img.shields.io/badge/Location-São%20Paulo%2C%20Brazil-00b4d8?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=São+Paulo)
+[![Location](https://img.shields.io/badge/Location-São%20Paulo%2C%20Brazil-00b4d8?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=S%C3%A3o+Paulo)
 
 </div>
 
